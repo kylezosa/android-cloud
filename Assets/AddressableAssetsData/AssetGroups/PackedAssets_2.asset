@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: PackedAssets_2
+  m_EditorClassIdentifier: 
+  m_GroupName: PackedAssets_2
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 627f7bfa2e05c504e99ac5ee5d4c47cf
+  m_SerializeEntries:
+  - m_GUID: da348622826894346b89e929236c1d77
+    m_Address: Assets/Sprites/lerefes_1024x500.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 2800000, guid: da348622826894346b89e929236c1d77, type: 3}
+    m_TargetAsset: {fileID: 2800000, guid: da348622826894346b89e929236c1d77, type: 3}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ce2467647ae9b384f88935adac637845, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 24830951826d0e34fb6a99d78e7fc86d, type: 2}
+    - {fileID: 11400000, guid: c07e7f94cb1250244b5cccad4e00520a, type: 2}
+    - {fileID: 11400000, guid: ea5a7868becddd64eaeca7e36aeb86fa, type: 2}

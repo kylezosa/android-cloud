@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GooglePlayServices.unity
     guid: 749bf1395b34f3f4fb08a190d2cbc3dc
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f174e628b27f02247bffb7675288d022,
+      type: 2}

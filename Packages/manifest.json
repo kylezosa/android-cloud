@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "be.khepri.play.assetdelivery.addressables": "file:D:/_Third Party or Plugins/Google Play Stuff/be.khepri.play.assetdelivery.addressables-master",
+    "com.unity.addressables": "1.16.19",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.2.1",
     "com.unity.ide.vscode": "1.2.3",
+    "com.unity.purchasing": "3.0.2",
     "com.unity.test-framework": "1.1.24",
     "com.unity.textmeshpro": "2.1.4",
     "com.unity.timeline": "1.2.18",

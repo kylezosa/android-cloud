@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 915981030
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c09e661cac732d7fd32869a477451dca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Sprites/lerefes.png
+Dependencies: []
